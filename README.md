@@ -1,4 +1,11 @@
-Mac os Mojave or Mac os Catalina from boot OpenCore 0.5.8.
+
+
+                                                             
+
+                            Hackintosh Boot OpenCore Legacy From Intel and Motherboard HP
+
+Mac os Mojave or Mac os Catalina from boot OpenCore 0.5.8.----->![apple-3-16575 (1)](https://github.com/user-attachments/assets/d7bb3594-5b68-4700-a3eb-d762674edd8a)
+
 Config requiedfrom install hackintosh.
 Alimentation 400WATT thermaltek certified 80 plus
 intel Pentium G6960 
@@ -13,10 +20,10 @@ From Mac Os Sierra
 
 >sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/ USB/ --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction &&say Terminé  
 
-Install boot usb From Intel Pentium or Core i3 530
-
-EFI BOOT INTEL 775 OpenCore 0.7.1
-Config from intel LGA 775
+Install boot usb From Intel Pentium or Core i3 530-------> MacOS Install from computer Intel: Macos Hight sierra-->10.13.6.0 
+                                                                                              Macos Mojave--> 10.14.6.0
+EFI BOOT INTEL 775 OpenCore 0.7.1                                                             Macos Catalina--->10.15.5.0
+Config from intel LGA 775                                                                     Macos Big-Sur--->11.6.0
 Intel core 2 quad Q8300 2.40GHZ
 Memory DDR3 6GO 1066MHZ
 Graphic CARD GTX 550 ti 1GO GDDR5 ----------->  ![358851448-f486f74f-b35e-45cf-8a8c-cde6a023b8d1](https://github.com/user-attachments/assets/e0945e51-86e4-4cdd-99bc-30dacfc69ce6)
