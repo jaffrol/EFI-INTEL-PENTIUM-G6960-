@@ -8,9 +8,12 @@ Graphic card GT 710 OR GTX 660 enter 1 GO OR 2GO
 Mortheboard Socket 1156 LGA
 Cards Ethernet Realtek TP-Link TG-3468 requied  ------------------>  ![carte-reseau-gigabit-ethernet-pci-express](https://github.com/user-attachments/assets/8d03bf3a-eb8f-4a4a-ba54-f21446671888)
 
+Commande boot terminal usb creator opencore via PentiumG6960
+From Mac Os Sierra
 
+>sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/ USB/ --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction &&say Terminé  
 
-
+Install boot usb From Intel Pentium or Core i3 530
 
 EFI BOOT INTEL 775 OpenCore 0.7.1
 Config from intel LGA 775
