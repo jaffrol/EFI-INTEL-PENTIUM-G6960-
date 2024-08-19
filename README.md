@@ -42,8 +42,8 @@ deux fichier de boot a la fois celui du intel pentium G6960 puis celui du intel 
 
 EFI OpenCore-------->Intel-Hackintosh-core2Duo Main S-Series
 
-Si vous avez une gtx580 DirectCU II vous pourriez utiliser cette EFI bootable avec les mac os Yosemite ou El-Capitan je doit vous avertir que les format 'dinstalltion du disque dur soit en mode (ECHANCED)
-Si vous avez une ATI cela ne sera pas reconnu par cette carte mere la Gigabyte S-Series LGA775.
+Si vous avez une gtx580 DirectCU II vous pourriez utiliser cette EFI bootable avec les mac os Yosemite ou El-Capitan je doit vous avertir que les formats d'instalation du disque dur soit en mode (ECHANCED)
+ ou en mode (AHCI) Si vous avez une ATI cela ne sera pas reconnu par cette carte mere la Gigabyte S-Series LGA775.
 
 Config requis:
 Intel Core 2 duo E8200 2.50GHZ
