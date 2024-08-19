@@ -52,7 +52,11 @@ Graphic Card GTX 650 TI or 660TI
 Disk SSD or HDD 320GO
 Exemples GPU--------------------------->![01G-P4-3655-KR_XL_4](https://github.com/user-attachments/assets/6e792768-ca6a-4322-9370-7976d3eda011)
 
-                                             
+USB BOOTABLE MACOS X YOSEMITE:
+
+>sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Yosemite --applicationpath /Applications/Install OS X Yosemite.app --nointeraction                                             
+                              
+                              
                               Exemple Install macos High Sierra on Motherboard Gigabyte S-Series
               
               Config computer basic:
