@@ -1,14 +1,14 @@
-![10ELhNM](https://github.com/user-attachments/assets/16240f19-b64f-4596-911f-437bcb135d7c)                                                                 ![Param_7](https://github.com/user-attachments/assets/dfd77bc4-8dd5-45cf-944d-a9ec2b6880b6)
+![10ELhNM](https://github.com/user-attachments/assets/16240f19-b64f-4596-911f-437bcb135d7c)                                                                 ![Param_7](https://github.com/user-attachments/assets/dfd77bc4-8dd5-45cf-944d-a9ec2b6880b6)  
 
+                                                                                                              
 
-                                                             
-
-                             Hackintosh Boot OpenCore Legacy From Intel and Motherboard HP
+                          
+                           Hackintosh Boot OpenCore Legacy From Intel and Motherboard HP
 
 Mac os Mojave or Mac os Catalina from boot OpenCore 0.5.8.----->![apple-3-16575 (1)](https://github.com/user-attachments/assets/d7bb3594-5b68-4700-a3eb-d762674edd8a)
 
 Config requiedfrom install hackintosh.
-Alimentation 400WATT thermaltek certified 80 plus
+Alimentation 400WATT thermaltek certified 80 plus              ![overview_hero_x (1)](https://github.com/user-attachments/assets/66d2ada6-7448-4f3b-a8b2-bea02458aace)
 intel Pentium G6960 
 Memory DDR3 8GO 1333 MHZ                          
 Disk SSD 128 GO
