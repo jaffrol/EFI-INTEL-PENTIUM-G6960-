@@ -54,7 +54,7 @@ Exemples GPU--------------------------->![01G-P4-3655-KR_XL_4](https://github.co
 
 USB BOOTABLE MACOS X YOSEMITE:
 
->sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Yosemite --applicationpath /Applications/Install OS X Yosemite.app --nointeraction                                             
+>sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
                               
                               
                               Exemple Install macos High Sierra on Motherboard Gigabyte S-Series
