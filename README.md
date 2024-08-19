@@ -1,4 +1,5 @@
-![10ELhNM](https://github.com/user-attachments/assets/16240f19-b64f-4596-911f-437bcb135d7c)                                                                                             
+![10ELhNM](https://github.com/user-attachments/assets/16240f19-b64f-4596-911f-437bcb135d7c)                                                                 ![Param_7](https://github.com/user-attachments/assets/dfd77bc4-8dd5-45cf-944d-a9ec2b6880b6)
+
 
                                                              
 
@@ -38,6 +39,18 @@ Mortherboard HP socket LGA 775
 
 Tres chers communauté du forum hackintosh montréal france merci a vous de mavoir pue fournir les outil est merci a chris1111 pour son travail et au admin du site je vous informe que jai crée 
 deux fichier de boot a la fois celui du intel pentium G6960 puis celui du intel core de quad pour les veilles machine qui on le AHCI de base compatible sur une carte mere hp et celui d'un ACER tout est mie sur ma page de github est merci de prendre soin de mon travail.
+
+EFI OpenCore-------->Intel-Hackintosh-core2Duo Main S-Series
+
+Si vous avez une gtx580 DirectCU II vous pourriez utiliser cette EFI bootable avec les mac os Yosemite ou El-Capitan je doit vous avertir que les format 'dinstalltion du disque dur soit en mode (ECHANCED)
+Si vous avez une ATI cela ne sera pas reconnu par cette carte mere la Gigabyte S-Series LGA775.
+
+Config requis:
+Intel Core 2 duo E8200 2.50GHZ
+Memory DDR2 4GO 866MHZ
+Graphic Card GTX 650 TI or 660TI
+Disk SSD or HDD 320GO
+Exemples GPU--------------------------->![01G-P4-3655-KR_XL_4](https://github.com/user-attachments/assets/6e792768-ca6a-4322-9370-7976d3eda011)
 
                                              
                               Exemple Install macos High Sierra on Motherboard Gigabyte S-Series
