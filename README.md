@@ -1,4 +1,4 @@
-![10ELhNM](https://github.com/user-attachments/assets/16240f19-b64f-4596-911f-437bcb135d7c)
+![10ELhNM](https://github.com/user-attachments/assets/16240f19-b64f-4596-911f-437bcb135d7c)                                                                                             
 
                                                              
 
@@ -23,7 +23,7 @@ From Mac Os Sierra
  Install boot usb From Intel Pentium or Core i3 530  --------->![high-sierra-roundel-240](https://github.com/user-attachments/assets/829bb58c-7e36-4b50-b2e5-146c9d05f206)
 
  MacOS Install from computer Intel: 
- Macos Hight sierra-->10.13.6.0 
+ Macos Hight sierra-->10.13.6.0 ----->Compatible Nvidia Series-500 URL Hackintosh for GTX550ti>---(https://github.com/NoBlanks/Intel-Hackintosh-Modern-Opencore) 
  Macos Mojave--> 10.14.6.0
  Macos Catalina--->10.15.5.0
  Macos Big-Sur--->11.6.0
@@ -40,7 +40,7 @@ Tres chers communauté du forum hackintosh montréal france merci a vous de mavo
 deux fichier de boot a la fois celui du intel pentium G6960 puis celui du intel core de quad pour les veilles machine qui on le AHCI de base compatible sur une carte mere hp et celui d'un ACER tout est mie sur ma page de github est merci de prendre soin de mon travail.
 
                                              
-                                             Exemple Install macos High Sierra on Motherboard Gigabyte S-Series
+                              Exemple Install macos High Sierra on Motherboard Gigabyte S-Series
               
               Config computer basic:
               Intel Core 2 Duo E7200
