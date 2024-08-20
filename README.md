@@ -24,7 +24,7 @@ From Mac Os Sierra
  Install boot usb From Intel Pentium or Core i3 530  --------->![high-sierra-roundel-240](https://github.com/user-attachments/assets/829bb58c-7e36-4b50-b2e5-146c9d05f206)
 
  MacOS Install from computer Intel: 
- Macos Hight sierra-->10.13.6.0 ----->Compatible Nvidia Series-500 URL Hackintosh for GTX550ti>---(https://github.com/NoBlanks/Intel-Hackintosh-Modern-Opencore) 
+ Macos Hight sierra-->10.13.6.0 ----->Compatible Nvidia Series-8800GTX URL Hackintosh for 8800GTX>---(https://github.com/NoBlanks/Intel-Hackintosh-Modern-Opencore) 
  Macos Mojave--> 10.14.6.0
  Macos Catalina--->10.15.5.0
  Macos Big-Sur--->11.6.0
@@ -33,7 +33,7 @@ EFI BOOT INTEL 775 OpenCore 0.7.1
 Config from intel LGA 775                                                                     
 Intel core 2 quad Q8300 2.40GHZ
 Memory DDR3 6GO 1066MHZ
-Graphic CARD GTX 550 ti 1GO GDDR5 ----------->  ![358851448-f486f74f-b35e-45cf-8a8c-cde6a023b8d1](https://github.com/user-attachments/assets/e0945e51-86e4-4cdd-99bc-30dacfc69ce6)
+Graphic CARD 8800 GTX 768MO GDDR3 ----------->  ![261_2217_2](https://github.com/user-attachments/assets/b1d4b16b-5588-439c-8868-aad61a18fafe)
 Disk HDD 5OO GO WD
 Mortherboard HP socket LGA 775
 
