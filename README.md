@@ -52,6 +52,20 @@ Graphic Card GTX 650 TI or 660TI
 Disk SSD or HDD 320GO
 Exemples GPU--------------------------->![01G-P4-3655-KR_XL_4](https://github.com/user-attachments/assets/6e792768-ca6a-4322-9370-7976d3eda011)
 
+
+
+Configuration create install MacOS X EL-CAPITAN & YOSEMITE-------->![cpu-socket-1156-pentium-dual-core-g6960-oem-0](https://github.com/user-attachments/assets/1476856c-191b-4aa0-a763-0f41ae0cd7c6)
+
+
+(EFI INTEL CORE 2 QUAD Modern) 
+
+Intel Core I3 530 or Pentium G6960
+Memory DDR3 8GO 1333 MHZ or DDR2 4GO
+Graphic Card AMD HD Radeon 6450 1024 DDR3
+Disk HDD or SSD 128GO 
+Motherboard ASUS P7P55LX LGA1156 or LGA775 Motherboard Gigabyte S-Series
+
+
 USB BOOTABLE MACOS X YOSEMITE:
 
 >sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
