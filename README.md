@@ -16,10 +16,6 @@ Graphic card GT 710 OR GTX 660 enter 1 GO OR 2GO
 Mortheboard Socket 1156 LGA
 Cards Ethernet Realtek TP-Link TG-3468 requied  ------------------>  ![carte-reseau-gigabit-ethernet-pci-express](https://github.com/user-attachments/assets/8d03bf3a-eb8f-4a4a-ba54-f21446671888)
 
-*Commande boot terminal usb creator opencore via PentiumG6960
-From Mac Os Sierra
-
->sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/ USB/ --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction &&say Terminé  
 
 * Install boot usb From Intel Pentium or Core i3 530  --------->![high-sierra-roundel-240](https://github.com/user-attachments/assets/829bb58c-7e36-4b50-b2e5-146c9d05f206)
 
@@ -86,9 +82,20 @@ Motherboard ASUS P7P55LX LGA1156 or LGA775 Motherboard Gigabyte S-Series
 >sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
 
 
-*USB BOOTABLE MACOS MAVERICK:
+*USB BOOTABLE MACOS X MAVERICKS:
 
 >sudo /Applications/Install\ OS\ X\ Mavericks.app/Contents/Resources/createinstallmedia --volume /Volumes/Installeur --applicationpath /Applications/Install\ OS\ X\ Mavericks.app --nointeraction                              
+                              
+*Commande boot terminal usb creator opencore via PentiumG6960
+From Mac Os Sierra
+
+> sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Sans\ titre/ --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction &&say Terminé                              
+                              
+                              
+*Si vous avez un lecteur DVD SATA ou PATA vous pouvez installer les vrais dvd MacOS mountain Lion 10.8.
+Par Exemples si vous avez un OS Snow-Léopard en version X32 bits avec votre lecteur DVD-24x ou 32xx.----->![graveur-blu-ray-mdisc-sata-525-lg-bh10ls38-interne-noir](https://github.com/user-attachments/assets/e1cc3ffa-7091-400b-a4c3-3bf837f2dac6)
+Un DVD de 4,5GO ou un dvd à double-couche 8GO Verbatim.
+                              
                               
                               Exemple Install macos High Sierra on Motherboard Gigabyte S-Series
               
