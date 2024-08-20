@@ -65,12 +65,12 @@ Graphic Card AMD HD Radeon 6450 1024 DDR3
 Disk HDD or SSD 128GO 
 Motherboard ASUS P7P55LX LGA1156 or LGA775 Motherboard Gigabyte S-Series
 
-*MacOS Pris en charge par la geforce 8800GTX 768MO GDDR3
+*MacOS Pris en charge par la geforce 8800GTX 768MO GDDR3---------> ![GeForce_newlogos (1)](https://github.com/user-attachments/assets/cd1bf008-3460-4a3a-9e57-b9e898a85dc0)
 
 *MacOS X YOSEMITE 10.10
 
 
-*MacOS X EL-CAPITAN 10.11---------> ![GeForce_newlogos (1)](https://github.com/user-attachments/assets/cd1bf008-3460-4a3a-9e57-b9e898a85dc0)
+*MacOS X EL-CAPITAN 10.11
 
 
 *MacOS High Sierra 10.13
