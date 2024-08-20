@@ -84,7 +84,11 @@ Motherboard ASUS P7P55LX LGA1156 or LGA775 Motherboard Gigabyte S-Series
 *USB BOOTABLE MACOS X YOSEMITE:
 
 >sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
-                              
+
+
+*USB BOOTABLE MACOS MAVERICK:
+
+>sudo /Applications/Install\ OS\ X\ Mavericks.app/Contents/Resources/createinstallmedia --volume /Volumes/Installeur --applicationpath /Applications/Install\ OS\ X\ Mavericks.app --nointeraction                              
                               
                               Exemple Install macos High Sierra on Motherboard Gigabyte S-Series
               
