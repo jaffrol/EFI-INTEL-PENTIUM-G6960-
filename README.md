@@ -1,9 +1,9 @@
 ![10ELhNM](https://github.com/user-attachments/assets/16240f19-b64f-4596-911f-437bcb135d7c)                                                                 ![Param_7](https://github.com/user-attachments/assets/dfd77bc4-8dd5-45cf-944d-a9ec2b6880b6)  
 
-                                                                                                              
 
-                          
-                           Hackintosh Boot OpenCore Legacy From Intel and Motherboard HP
+                                                
+                           
+                                   Hackintosh Boot OpenCore Legacy From Intel and Motherboard HP
 
 *Mac os Mojave or Mac os Catalina from boot OpenCore 0.5.8.----->![apple-3-16575 (1)](https://github.com/user-attachments/assets/d7bb3594-5b68-4700-a3eb-d762674edd8a)
 
