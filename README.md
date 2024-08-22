@@ -76,6 +76,10 @@ Motherboard ASUS P7P55LX LGA1156 or LGA775 Motherboard Gigabyte S-Series
 *MacOS MOJAVE 10.14 ---------------∣ (Install pilote Nvidia Celui de CHRIS1111) 
 
 
+Commande terminal pour partitiondisk Mac.
+
+*(diskutil list)= choisir le disk external de la list des disques
+*(diskutil partitionDisk /dev/disk2 GPT JHFS+ "USB" 100%)
 
 *USB BOOTABLE MACOS X YOSEMITE:
 
